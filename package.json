@@ -1,0 +1,11 @@
+{
+  "name": "coc-eslint-fixer-reproducible-test-case",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "5.15.1",
+    "eslint-plugin-prettier": "3.0.1",
+    "prettier": "1.16.4"
+  }
+}
